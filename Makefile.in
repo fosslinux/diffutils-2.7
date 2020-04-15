@@ -68,7 +68,7 @@ distfiles = $(srcs) README INSTALL NEWS diagmeet.note Makefile.in \
 	diff.texi diff.info* texinfo.tex \
 	install-sh mkinstalldirs
 
-PROGRAMS = cmp diff diff3 sdiff
+PROGRAMS = cmp diff
 
 all: $(PROGRAMS) info
 
