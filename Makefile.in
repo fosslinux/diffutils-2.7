@@ -46,7 +46,7 @@ edit_program_name = sed '@program_transform_name@'
 
 bindir = $(exec_prefix)/bin
 
-infodir = $(prefix)/info
+infodir = $(prefix)/share/info
 
 DEFAULT_EDITOR_PROGRAM = ed
 DIFF_PROGRAM = $(bindir)/`echo diff | $(edit_program_name)`
