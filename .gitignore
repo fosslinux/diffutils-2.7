@@ -1,0 +1,32 @@
+# Configure artifacts
+Makefile
+config.cache
+config.h
+config.log
+config.status
+stamp-h
+# Build artifacts
+analyze.o
+cmp
+cmp.o
+cmpbuf.o
+context.o
+crt1.o
+crti.o
+crtn.o
+diff
+diff.o
+dir.o
+ed.o
+error.o
+fnmatch.o
+getopt.o
+getopt1.o
+ifdef.o
+io.o
+normal.o
+regex.o
+side.o
+util.o
+version.o
+xmalloc.o
